@@ -46,9 +46,6 @@ The script performs the following steps:
 5. **Dimension Calculation**: For each remaining contour, calculate the dimensions using perspective transformation and Euclidean distance measurement.
 6. **Display**: Display the original image with annotated dimensions.
 
-## Example
-
-![Example Image](example.png)
 
 ## License
 
@@ -58,6 +55,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - This project was inspired by [OpenCV](https://opencv.org/) and [imutils](https://github.com/jrosebr1/imutils).
 
----
 
-You can use this README as a starting point and customize it further based on your preferences and additional information you want to include.
